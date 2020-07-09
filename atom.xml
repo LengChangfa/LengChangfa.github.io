@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://cocofafa.com/posts/16107.html"/>
-    <id>http://cocofafa.com/posts/16107.html</id>
+    <link href="http://cocofafa.com/16107.html"/>
+    <id>http://cocofafa.com/16107.html</id>
     <published>2020-03-26T02:04:50.938Z</published>
     <updated>2020-07-08T11:58:42.425Z</updated>
     
@@ -27,7 +27,7 @@
     
       
       
-        &lt;!-- build time:Thu Jul 09 2020 13:38:23 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hex
+        &lt;!-- build time:Thu Jul 09 2020 13:47:56 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hex
       
     
     </summary>
