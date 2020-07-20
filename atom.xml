@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cocofafa.com/"/>
-  <updated>2020-07-08T11:58:42.425Z</updated>
+  <updated>2020-07-20T08:56:26.395Z</updated>
   <id>http://cocofafa.com/</id>
   
   <author>
@@ -17,24 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://cocofafa.com/16107.html"/>
-    <id>http://cocofafa.com/16107.html</id>
-    <published>2020-03-26T02:04:50.938Z</published>
-    <updated>2020-07-08T11:58:42.425Z</updated>
+    <title>Markdown语法+Typora教程</title>
+    <link href="http://cocofafa.com/1011929149.html"/>
+    <id>http://cocofafa.com/1011929149.html</id>
+    <published>2020-07-19T16:00:00.000Z</published>
+    <updated>2020-07-20T08:56:26.395Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Mon Jul 13 2020 19:30:42 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hex
+        &lt;!-- build time:Mon Jul 20 2020 16:59:59 GMT+0800 (GMT+08:00) --&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;#markdown介绍&quot;&gt;Markdown介绍&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;#typora简介&quot;&gt;Ty
       
     
     </summary>
     
     
-      <category term="uncategorized" scheme="http://cocofafa.com/categories/uncategorized/"/>
+      <category term="hexo博客搭建" scheme="http://cocofafa.com/categories/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
+    
+      <category term="hexo" scheme="http://cocofafa.com/tags/hexo/"/>
+    
+      <category term="markdown" scheme="http://cocofafa.com/tags/markdown/"/>
+    
+      <category term="typora" scheme="http://cocofafa.com/tags/typora/"/>
     
   </entry>
   
