@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cocofafa.com/"/>
-  <updated>2020-08-02T14:12:47.549Z</updated>
+  <updated>2020-08-20T13:04:11.995Z</updated>
   <id>http://cocofafa.com/</id>
   
   <author>
@@ -17,23 +17,23 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Java入门-003变量</title>
-    <link href="http://cocofafa.com/441205079.html"/>
-    <id>http://cocofafa.com/441205079.html</id>
-    <published>2020-07-22T16:00:00.000Z</published>
-    <updated>2020-08-02T14:12:47.549Z</updated>
+    <title>Java入门-004数据类型</title>
+    <link href="http://cocofafa.com/3996184502.html"/>
+    <id>http://cocofafa.com/3996184502.html</id>
+    <published>2020-07-23T16:00:00.000Z</published>
+    <updated>2020-08-20T13:04:11.995Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Aug 19 2020 11:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的变量。&lt;/p&gt;
+      &lt;!-- build time:Thu Aug 20 2020 21:04:55 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的数据类型。&lt;/p&gt;
     
     </summary>
     
     
-      <category term="Java入门" scheme="http://cocofafa.com/categories/Java%E5%85%A5%E9%97%A8/"/>
+      <category term="uncategorized" scheme="http://cocofafa.com/categories/uncategorized/"/>
     
     
-      <category term="变量" scheme="http://cocofafa.com/tags/%E5%8F%98%E9%87%8F/"/>
+      <category term="数据类型" scheme="http://cocofafa.com/tags/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/"/>
     
   </entry>
   
@@ -42,11 +42,11 @@
     <link href="http://cocofafa.com/441205079.html"/>
     <id>http://cocofafa.com/441205079.html</id>
     <published>2020-07-22T16:00:00.000Z</published>
-    <updated>2020-08-18T11:15:03.607Z</updated>
+    <updated>2020-08-02T14:12:47.549Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Aug 19 2020 11:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的变量。&lt;/p&gt;
+      &lt;!-- build time:Thu Aug 20 2020 21:04:55 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的变量。&lt;/p&gt;
     
     </summary>
     
@@ -63,11 +63,11 @@
     <link href="http://cocofafa.com/2321402904.html"/>
     <id>http://cocofafa.com/2321402904.html</id>
     <published>2020-07-21T16:00:00.000Z</published>
-    <updated>2020-07-28T17:20:10.577Z</updated>
+    <updated>2020-08-19T13:25:00.071Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Aug 19 2020 11:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的标识符和关键字。&lt;/p&gt;
+      &lt;!-- build time:Thu Aug 20 2020 21:04:55 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的标识符和关键字。&lt;/p&gt;
     
     </summary>
     
@@ -90,7 +90,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Aug 19 2020 11:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的环境搭建。主要包含DOS命令、Java语言特性、编译执行过程、环境变量、注释等内容。&lt;/p&gt;
+      &lt;!-- build time:Thu Aug 20 2020 21:04:55 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的环境搭建。主要包含DOS命令、Java语言特性、编译执行过程、环境变量、注释等内容。&lt;/p&gt;
     
     </summary>
     
@@ -111,7 +111,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Aug 19 2020 11:07:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Typora常用快捷键和Markdown语法。&lt;/p&gt;
+      &lt;!-- build time:Thu Aug 20 2020 21:04:55 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Typora常用快捷键和Markdown语法。&lt;/p&gt;
     
     </summary>
     
