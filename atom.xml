@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cocofafa.com/"/>
-  <updated>2020-08-28T06:30:07.391Z</updated>
+  <updated>2020-08-31T10:28:31.775Z</updated>
   <id>http://cocofafa.com/</id>
   
   <author>
@@ -17,15 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Java入门-006控制语句</title>
+    <link href="http://cocofafa.com/2326049423.html"/>
+    <id>http://cocofafa.com/2326049423.html</id>
+    <published>2020-07-25T16:00:00.000Z</published>
+    <updated>2020-08-31T10:28:31.775Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Mon Aug 31 2020 18:29:30 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的输入语句和控制语句。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java入门" scheme="http://cocofafa.com/categories/Java%E5%85%A5%E9%97%A8/"/>
+    
+    
+      <category term="输入语句" scheme="http://cocofafa.com/tags/%E8%BE%93%E5%85%A5%E8%AF%AD%E5%8F%A5/"/>
+    
+      <category term="控制语句" scheme="http://cocofafa.com/tags/%E6%8E%A7%E5%88%B6%E8%AF%AD%E5%8F%A5/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Java入门-005运算符</title>
     <link href="http://cocofafa.com/3088414880.html"/>
     <id>http://cocofafa.com/3088414880.html</id>
     <published>2020-07-24T16:00:00.000Z</published>
-    <updated>2020-08-28T06:30:07.391Z</updated>
+    <updated>2020-08-31T00:56:59.550Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Aug 28 2020 14:32:25 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的运算符。&lt;/p&gt;
+      &lt;!-- build time:Mon Aug 31 2020 18:29:30 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的运算符。&lt;/p&gt;
     
     </summary>
     
@@ -42,19 +65,19 @@
     <link href="http://cocofafa.com/3996184502.html"/>
     <id>http://cocofafa.com/3996184502.html</id>
     <published>2020-07-23T16:00:00.000Z</published>
-    <updated>2020-08-20T13:04:11.995Z</updated>
+    <updated>2020-08-31T10:28:45.325Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Aug 28 2020 14:32:25 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的数据类型。&lt;/p&gt;
+      &lt;!-- build time:Mon Aug 31 2020 18:29:30 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的数据类型。&lt;/p&gt;
     
     </summary>
     
     
-      <category term="uncategorized" scheme="http://cocofafa.com/categories/uncategorized/"/>
+      <category term="Java入门" scheme="http://cocofafa.com/categories/Java%E5%85%A5%E9%97%A8/"/>
     
     
-      <category term="数据类型" scheme="http://cocofafa.com/tags/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/"/>
+      <category term="运算符" scheme="http://cocofafa.com/tags/%E8%BF%90%E7%AE%97%E7%AC%A6/"/>
     
   </entry>
   
@@ -67,7 +90,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Aug 28 2020 14:32:25 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的变量。&lt;/p&gt;
+      &lt;!-- build time:Mon Aug 31 2020 18:29:30 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的变量。&lt;/p&gt;
     
     </summary>
     
@@ -88,7 +111,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Aug 28 2020 14:32:25 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的标识符和关键字。&lt;/p&gt;
+      &lt;!-- build time:Mon Aug 31 2020 18:29:30 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的标识符和关键字。&lt;/p&gt;
     
     </summary>
     
@@ -111,7 +134,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Aug 28 2020 14:32:25 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的环境搭建。主要包含DOS命令、Java语言特性、编译执行过程、环境变量、注释等内容。&lt;/p&gt;
+      &lt;!-- build time:Mon Aug 31 2020 18:29:30 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Java入门的环境搭建。主要包含DOS命令、Java语言特性、编译执行过程、环境变量、注释等内容。&lt;/p&gt;
     
     </summary>
     
@@ -132,7 +155,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Aug 28 2020 14:32:25 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Typora常用快捷键和Markdown语法。&lt;/p&gt;
+      &lt;!-- build time:Mon Aug 31 2020 18:29:30 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文核心为Typora常用快捷键和Markdown语法。&lt;/p&gt;
     
     </summary>
     
